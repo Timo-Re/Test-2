@@ -5,7 +5,7 @@ Monkey
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Meet monkeys</title>
+  <abbr title="i.e. a gorilla" >Monkeys</abbr>
 </head>
 <body>
   <h1> Monkeys </h1>
